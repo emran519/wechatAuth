@@ -89,7 +89,7 @@ class WechatAuth{
      * @param int $type
      * @return mixed
      */
-    public  function getParams(int $type){
+    private  function getParams(int $type){
         if($type==1){
             $params['appid'] = $this->appId;
             $params['redirect_uri'] = $this->redirectUri;
