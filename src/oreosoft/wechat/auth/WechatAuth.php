@@ -1,9 +1,9 @@
 <?php
 
-namespace oreo\wechat\auth;
+namespace oreosoft\wechat\auth;
 
 
-use oreo\wechat\Base;
+use oreosoft\wechat\Base;
 
 class WechatAuth extends Base
 {

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace oreo\wechat;
+namespace oreosoft\wechat;
 
 /**
  * SDK类基类
